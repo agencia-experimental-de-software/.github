@@ -146,9 +146,9 @@ Professores (CTOs)  ──►  Team Leads  ──►  Times de desenvolvimento
 
 <div align="center">
 
-| 👩‍🎓 2º sem. 2024 | 👩‍💻 1º sem. 2025 | 🧑‍🏫 Professores | 🗂️ Times ativos |
-|:-:|:-:|:-:|:-:|
-| **43 alunos** | **35 alunos** | **6 envolvidos** | **6 projetos** |
+| 👩‍🎓 2º sem. 2024 | 👩‍💻 1º sem. 2025 | 🧑‍🎓 1º sem. 2026 | 👨‍💻 2º sem. 2026 | 🧑‍🏫 Professores | 🗂️ Times ativos |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| **43 alunos** | **35 alunos** | **31 alunos** | **25 alunos** | **6 envolvidos** | **6 projetos** |
 
 </div>
 
